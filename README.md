@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiteshBhashwani
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 📫 How to reach me [Linkedin](https://in.linkedin.com/in/jitesh-bhashwani-169b411a6) [Twitter](https://twitter.com/jitesh_twts) 
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/jitesh-bhashwani) [Twitter](https://twitter.com/jitesh_twts) 
 
 <!---
 JiteshBhashwani/JiteshBhashwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
