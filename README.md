@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jitesh, An Aspiring software developer from India 👨‍💻 </div>  
+### <div align="center">I'm Jitesh, An Aspiring software developer 👨‍💻  from India 🇮🇳</div>  
   
 
 - 🔭 I’m currently working on [My Problem solving skills and DSA](https://github.com/JiteshBhashwani/DSA)  
@@ -14,7 +14,6 @@
 
 -  📥 How to reach me jitubhashwani999@gmail.com  
   
-
 <br/>  
 
 <div align="center">
