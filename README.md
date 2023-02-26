@@ -56,7 +56,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" height="50" /></a> 
-
+<a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="VSCode" height="50" /></a> 
 <br/>  
 
 <div align="center">
