@@ -45,7 +45,7 @@
 
 
 <!-- ## Github Stats   -->
-<img src="https://github-readme-stats.vercel.app/api?username=jiteshbhashwani&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=jiteshbhashwani&count_private=true&show_icons=true&theme=transparent" align="left" />  
 
 <br/>  
 <div align="center">
