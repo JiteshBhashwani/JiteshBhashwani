@@ -47,10 +47,10 @@
 <!-- ## Github Stats   -->
 <img src="https://github-readme-stats.vercel.app/api?username=jiteshbhashwani&count_private=true&show_icons=true&theme=dark" align="left" />  
 
-<br/>  
-<div align="center">
-<!--<img src="https://komarev.com/ghpvc/?username=your-github-antonkomarev" align="center" /> -->
-</div>  
+<!-- <br/>   -->
+<!-- <div align="center"> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=your-github-antonkomarev" align="center" /> -->
+<!-- </div>   -->
 
 ## Tech Stack 
 <div align="center">  
@@ -66,10 +66,9 @@
 
 
 
-<br />
+<br/>
 
 ----
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
 
 <!---
 JiteshBhashwani/JiteshBhashwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
