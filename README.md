@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [My Problem solving skills and DSA](https://github.com/JiteshBhashwani/DSA)  
   
 
-- 🌱 I’m currently learning Java + Android Development  
+- 🌱 I’m currently learning Android Development with java
   
 
 -  📥 How to reach me jitubhashwani999@gmail.com  
