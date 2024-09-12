@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Jitesh, An Aspiring software developer 👨‍💻  from India 🇮🇳</div>  
+### <div align="center">I'm Jitesh, An Aspiring Software Developer 👨‍💻  from India 🇮🇳</div>  
   
 
 - 🔭 I’m currently working on [My Problem solving skills and DSA](https://github.com/JiteshBhashwani/DSA)  
   
 
-- 🌱 I’m currently learning Android Development with java
+- 🌱 I’m currently Learning React for front-end development.
   
 
 -  📥 How to reach me jitubhashwani999@gmail.com  
